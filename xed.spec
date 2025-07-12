@@ -2,7 +2,7 @@ Summary:	Xed Text Editor
 Summary(pl.UTF-8):	Edytor tekstu Xed
 Name:		xed
 Version:	3.8.2
-Release:	1
+Release:	2
 License:	GPL v2+ (Xed), GPL v3+ (open-uri-context-menu plugin)
 Group:		X11/Applications/Editors
 #Source0Download: https://github.com/linuxmint/xed/tags
